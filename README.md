@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lilychisholm
 - 👀 I’m interested in learning more code and how to make games.
-- 🌱 I’m currently a student at GaTech, proficient in HTML, CSS, JavaScript, Java, Python, and SQL.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a student at GaTech, with threads in Media and Intelligence.
 - 📫 How to reach me: 
 -     -Email: LSC112003@gmail.com
+-             lchisholm30@gatech.edu
 -     -Phone: 404-858-7108
 
 <!---
